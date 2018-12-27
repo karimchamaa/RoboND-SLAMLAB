@@ -22,7 +22,7 @@ $ sudo apt-get upgrade -y
 #### Step 3 Clone the package in src
 ```sh
 $ cd /home/workspace/catkin_ws/src
-$ git clone https://github.com/udacity/RoboND-SLAMLAB
+$ git clone https://github.com/karimchamaa/RoboND-SLAMLAB
 ```
 
 #### Step 4 Build and source your workspace
